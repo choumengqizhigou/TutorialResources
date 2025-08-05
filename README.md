@@ -6,6 +6,9 @@
 
 博客地址：[丑萌气质狗](https://choumengqizhigou.com/)
 
+- C#
+  - C#+SQL Server数据库入门
+    - C#+SQL Server数据库入门.7z
 - Unity
   - 前十个游戏都是垃圾系列
     - 2、生存射击
